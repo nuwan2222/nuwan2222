@@ -119,6 +119,6 @@ Software Engineering  ███████████████████�
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
-*"The sky is not the limit — it's just the beginning."*
+*"Code today, conquer tomorrow."*
 
 </div>
