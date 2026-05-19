@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Nuwan%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Dinidu%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20LNBTI%20Japanese%20University&descSize=16&descColor=8b949e" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+with+Java+%26+PHP+☕;Crafting+mobile+apps+with+Flutter+📱;Exploring+the+world+of+AI+%2F+ML+🤖;Dreaming+of+the+skies+✈️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+Android+apps+with+Kotlin+%26+Java+📱;Exploring+Python+%26+AI+🤖;Software+Engineering+Student+%40+LNBTI+🎓;From+Sri+Lanka+with+Code+🇱🇰" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,19 +22,20 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Oshada
+name: Dinidu Nuwan Akalanka
 location: Sri Lanka 🇱🇰
 education: Software Engineering Student
+university: LNBTI Japanese University
 passions:
-  - Building full-stack web apps
-  - Mobile development with Flutter
-  - Exploring AI & Machine Learning
-  - Becoming a commercial pilot ✈️
+  - Building Android apps with Kotlin & Java
+  - Exploring Python & AI
+  - Clean, minimal code architecture
+  - Continuous learning & growth
 currently_learning:
-  - Artificial Intelligence / ML
-  - Flutter advanced patterns
-  - System Design
-fun_fact: "I debug code at 2AM and dream about flight routes 🌙"
+  - Mobile Development (Kotlin + Java)
+  - Python fundamentals
+  - Android best practices
+fun_fact: "I write Kotlin by day and debug dreams by night 🌙"
 ```
 
 ---
@@ -44,20 +45,20 @@ fun_fact: "I debug code at 2AM and dream about flight routes 🌙"
 <div align="center">
 
 ### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### Currently Exploring
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 </div>
 
@@ -93,22 +94,22 @@ fun_fact: "I debug code at 2AM and dream about flight routes 🌙"
 
 <div align="center">
 
-[![Oshada's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dinidu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ✈️ My Journey
+## 📱 My Journey
 
 ```
+Mobile Dev (Kotlin)   ████████████████░░░░░░  Growing fast
+Java                  ██████████████░░░░░░░░  Solid foundation
+Python                ██████████░░░░░░░░░░░░  Building up
+Android Development   ████████████████░░░░░░  Loving every bit
+MySQL                 ████████████░░░░░░░░░░  Web dev ready
+AI / ML               ██████░░░░░░░░░░░░░░░░  Just getting started
 Software Engineering  ████████████████████░░  Learning every day
-Flutter / Dart        ██████████████░░░░░░░░  Growing fast
-Java                  ████████████████░░░░░░  Solid foundation
-PHP / MySQL           ██████████████░░░░░░░░  Web dev ready
-C#                    ████████████░░░░░░░░░░  Getting stronger
-AI / ML               ████████░░░░░░░░░░░░░░  Just getting started
-Aviation Theory       ██████████████████░░░░  Dream in progress ✈️
 ```
 
 ---
