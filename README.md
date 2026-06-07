@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Dinidu%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20LNBTI%20Japanese%20University&descSize=16&descColor=8b949e" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Flutter+Developer;C%23+Developer;Java+Developer;Future+Software+Engineer" />
+</p>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
