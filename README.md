@@ -65,6 +65,18 @@ fun_fact: "I write Kotlin by day and debug dreams by night 🌙"
 
 ---
 
+## 🚀 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuwan2222&repo=Hotel-management-system)](https://github.com/nuwan2222/Hotel-management-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuwan2222&repo=Vehicle-management-system)](https://github.com/nuwan2222/Vehicle-management-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuwan2222&repo=BTOYS-toys-management-system)](https://github.com/nuwan2222/BTOYS-toys-management-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuwan2222&repo=Pet-store)](https://github.com/nuwan2222/Pet-store)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuwan2222&repo=Hotel-Booking-Database-System)](https://github.com/nuwan2222/Hotel-Booking-Database-System)
+
 ## 📊 GitHub Stats
 
 <div align="center">
